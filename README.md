@@ -49,9 +49,9 @@
             -h, --help                 Display help message
 
 * The following can be done with the exe that was loaded in:
-    Step through the ram word-by-word by clicking 'step' or F10. 
-    Run through the ram entirely (With non-responsive GUI)
-    Reload another exe
+    * Step through the ram word-by-word by clicking 'step' or F10. 
+    * Run through the ram entirely (With non-responsive GUI)
+    * Reload another exe
 
 ## Bug Report
 
