@@ -1,19 +1,5 @@
-# LOADER
-
-
-
-
-
-
-
-
-
-
-
 
 ### Stephen Yurkin
-### CpS 310
-### 9/19/18
 ### 20hrs
 
 ## Overview
@@ -61,10 +47,5 @@
 
 * https://drive.google.com/file/d/1iIEIsqrInT2OkED9Rs5dGxJho1o01Scz/view?usp=sharing
 
-## Academic Integrity Statement
 
-* Include the following statement at the end of your report, specifying any debugging help received. Note that you do not need to report discussions concerning the interpretation of the assignment specifications.
-    "By affixing my signature below, I certify that the accompanying work represents my own intellectual effort. Furthermore, I have received no outside help other than what is documented below."
-     			
-                    STEPHEN YURKIN
 
